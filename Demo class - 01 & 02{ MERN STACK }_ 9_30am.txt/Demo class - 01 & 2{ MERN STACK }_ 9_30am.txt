@@ -1,0 +1,243 @@
+Demo class - 01 { MERN STACK } 
+
+Web Development  - 
+1. Java full stack developer 
+2. Python full stack developer 
+3. MERN stack { fast & easy to get a job } 
+
+Q1. What is web development ? 
+--> It is a process of building a websites.
+
+== MERN Stack
+M  - Mongo DB 
+E  - Express JS
+R  - React JS 
+N  - Node JS 
+
+website - Frontend +    Server     + Database
+MERN    - React JS + express/ Node + Mongo DB 
+
+Q2. what is Frontend - UI of the website 
+
+Q3. What is server   - It contains the business  logic / functionality / it is middleware b/w the frontend & Database.
+
+Q3. What is Database : it is a place where we have entire data { it contains the Data } 
+
+Q4. What is website : 
+-- Website is a collection of Web page. 
+
+Q5. What is web page. 
+-- It is a html file only.
+-- It is a document 
+-- It is a collection of content { text , audio, video, images , forms , tables etc., }
+
+Book - website
+page of a book - web page 
+
+Q6. How we can build the Website. 
+-- We have multiple tech Stacks { collection of technologies : 
+MERN Stack } 
+
+---------------------------------------
+     MERN Stack Course - 3 modules 
+---------------------------------------
+Module : 01 - HTML, CSS, Bootstraps.
+Module : 02 - JavaScript, DOM, Tailwind CSS & React JS 
+Module : 03 - Mongo DB, Express JS & Node JS 
+
+--- Module 01 : HTML, CSS & Bootstrap ------
+## Pre- requisites : 
+1. What is website
+2. what is webpage
+3. Types of Website 
+4. How many tech Stack we have to build the websites
+5. what is web technologies. 
+6. what is Browser 
+7. What is Search Engine 
+8. What is DNS
+9. What is Ip address
+10. What is URL 
+11. What is Server 
+12. What is API 
+13. How web Works / 3 tier Architecture
+14. How Browser Understand Data that we get form the DB 
+15. Components of Browser.
+
+-------------------- Pre-Requisites --------------
+1. What is website
+-- It is a collection of Web pages
+
+2. what is webpage
+-- It is a HTML File / Document / collection of content { text, images, videos, audios, table, form}
+
+=== A book is a website.
+=== A page of Book is a webpage.
+
+3. Types of Website 
+-- 2 categories
+   -- Static website
+	1.The content Remain Same for all the users & 
+	  & there is no User interaction or very less 	  user interaction.
+	- EG : Wikipedia, Ed tech website
+ 
+   -- Dynamic Website 
+	1.The content of the website is not same for 	   all the users & user can interact with the 	   website  a lot .
+	- EG : YT, IG, LinkedIn etc.
+
+4. How many tech Stack we have to build the websites
+-- we have many tech stack 
+	-- MERN Stack --
+
+5. what is web technologies. 
+
+Frontend + server + DB
+Frontend - web tech + react JS /  
+Server - node JS  , express JS / Java / Python / Dotnet.
+DB - SQL, MongoDB , Redis.
+
+Frontend - Web tech + react JS 
+Backend - Server + DB 
+
+
+-- Core technologies that we will use to build the website {common technologies for all the tech stack } 
+- Java, python , Mern , Mean etc --- Web tech is common 
+
+? which technologies comes under the web tech
+-- HTML, CSS & JavaScript { JS + DOM } 
+
+---------------------------------------------------
+1. i want to add one product in add to cart in Flipkart website.
+Step : 01 - Browser
+step : 02 - search - Flipkart
+step : 03 - I click on Flipkart website
+step : 04 - open the product 
+step : 05 - click on add to cart Button / buy button / etc...
+
+
+
+6. what is Browser 
+--- It is Software, u can access, upload, edit, delete data over the internet that is present in WWW.
+
+7. What is Search Engine ?
+--- Engine { program } , that takes the search text , and search the text on the internet , 
+---- It is a engine that perform the searching over the internet. 
+
+8. What is DNS
+---- Domain name system 
+--- Translator : URL into Ip address
+---- Why - because Browser understand URL but Server Understand Ip address only, so for communication b/w browser & server we need Ip address  , that's why we are using DNS/
+
+
+9. What is Ip address
+--- address of Data
+
+10. What is URL
+--- Uniform Resource locator 
+1. Uniform  - unique 
+2. Resource - Data
+3. locator  - location 
+
+** URL : it is a unique address of Data over the internet.
+https://media.fortuneindia.com/fortune-india/2025-11-06/6incrk23/RCB.jpg?w=640&auto=format,compress&q=80
+
+=============================
+     https vs http 
+=============================
+1. https : 
+	- hyper text transfer protocol secure 
+	- it is globally available
+	- live website
+	
+2. http  : 
+	- hyper text transfer protocol 
+	- it is locally available 
+	- website in local system 
+
+#### what is protocol - 
+*** It is a set of rules & regulation
+eg : common understandable examples - 
+--- Mern stack developer, mongodb, express js, node js & react js 
+--- if u want to attend the online class - u need to join the class on time with zoom link
+--- 
+
+
+
+
+
+11. What is Server 
+--- it is middleware b/w frontend & DB 
+
+12. What is API 
+--- it is a way to communicate b/w 2 things 
+like 
+frontend communicate with server by using API
+Server communicate with DB by using API 
+vice versa - 
+
+13. How web Works /
+
+** 3 tier Architecture
+--- Frontend + server + DB 
+
+14. How Browser Understand Data that we get form the DB
+--- Components of Browser
+	1. rendering Engine  - HTML & CSS 
+	2. JavaScript Engine - JavaScript  
+15. Components of Browser.
+
+===========================================
+# How web works -
+
+1. Frontend / Browser = Understand keyword / URL 
+2. Server             = Ip Address 
+
+a - telgu 
+b - hindi 
+c - telgu --- hindi & hindi --- telgu 
+
+google translator - 
+
+converting  the URL into Ip address - we have one translator [ DNS - Domain name system. ]
+
+-- What is internet ? 
+it is global interlink connection of devices , by which anyone can access anything form the WWW from anywhere.
+
+--- What is www : world wide web 
+
+www - is a container that contains data
+internet - It is used to access the data form the www 
+
+browser <---> search engine <---> internet <---> www 
+
+
+website  ✅
+webpage  ✅ 
+send the request to  the server 
+URL ✅ 
+Ip address ✅ 
+DNS  ✅ 
+
+server  ✅ 
+DB ✅ 
+
+https , http - Protocol ✅ 
+
+internet - 3G, 4G, 5G, - load time , response time vary.
+API - to communicate with server - ✅ 
+
+Browser
+search engine  - SEO  ✅
+
+website - static & dynamic - 
+html & css - static website 
+html, css & Js - Dynamic Website 
+
+
+
+
+
+
+
+
+
+

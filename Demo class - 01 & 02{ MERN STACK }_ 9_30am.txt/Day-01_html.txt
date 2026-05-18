@@ -1,0 +1,93 @@
+Module - 01 : HTML, CSS  & Bootstrap
+======================================
+
+1. HTML : 
+* It stands for  hyper text markup language.
+* It is a standard  markup language that is used to create* the websites / webpages. 
+* It is used to add the content in the web page.
+ 
+* HTML contains a series of Elements, through which we can tell the browser how to display the content.  
+* For Displaying the content, we have multiple tags in HTML. 
+
+
+===============================================================
+Main Heading - h1 tag 
+heading      - h2 tag
+sub-heading  - h3 tag
+paragraph    - p tag
+summary      - summary tag
+
+<h1> we are understanding the Elements & tags in HTML </h1> 
+
+Browser - Rendering Engine [ HTML & CSS ] 
+Rendering Engine - understand HTML Code 
+
+<h1> we are understanding the Elements & tags in HTML </h1>
+h1 - Main heading 
+Browser  automatically  understand that , I need to display this text [ the text that is written b/w the <h1>  </h1> ] as a main heading.
+
+*  " we are understanding the Elements & tags"  in HTML is displayed in the web page as a main heading 
+
+Eg : 
+<p> this is the demo text </p> [ paragraph ]
+	   vs  
+this is the demo text          [ normal text ] 
+
+--------------------------------------------------------
+<p> this is the demo text </p>
+p - paragraph tag 
+- i need to display this text as a paragraph in the web page.
+
+
+## What is element : 
+<h1> What is an element </h1> 
+
+h1 - tag 
+What is an element - text 
+from the <h1> to </h1 > --- element 
+
+
+=================== History / Version of HTM ===============
+
+Q1. When HTML was introduced ? 
+Ans - 1993 
+
+Q2. who introduced HTML
+Ans - Tim Berners lee
+
+* Tim Berners Lee Introduced HTML 1 version in 1993 
+----
+
+HTML 2 - in 1995
+HTML 3 - in 1997
+HTML 4 - in 1999
+HTML 5 - in 2008 
+HTML 5 - in 2014 [ official Recommendation by W3C ] 
+
+* HTML 4 vs HTML 5 * 
+-- In HTML 5 , Semantic Elements was introduced. 
+
+===============================================================
+Q1. what is HTML 
+Q2. History & versions of HTML 
+Q3. How to create webpage - 
+
+Step : 01 - open Notepad 
+step : 02 - Type Your Name or any text. 
+step : 03 - save that file with name - anyName.html
+step : 04 - double click on that file - it opens in browser.
+
+step : 05 - Right click & select the last option [ inspect ] 
+step : 06 - click on Element 
+
+
+====================== VS Code ========================
+? Visual Code -IDE : It is platform where we can write our code.
+? How to install the Vs Code
+
+----- Follow the PDF ------
+
+
+
+
+
