@@ -1,0 +1,32 @@
+/*
+universal selector represented by * {} .we have default css-p
+}rovided by the broswer
+with the help of this code,we can remove that default broswer css from all the elements.
+
+*/
+
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+/*id selector-#idname{key:value;}
+*/
+#main-heading{
+    color:blue;
+    text-align: center;
+}
+a{
+    color:green;
+    text-decoration: none;
+}
+.ol_items{
+    color:orange;
+    font-size: 20px;
+}
+a,.ol_items{
+    color: #491c1c;
+    font-family: 'Courier New', Courier, monospace;
+}
